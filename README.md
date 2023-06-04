@@ -9,8 +9,5 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ![qr code component desktop preview](https://github.com/mkdir-nicolas/qr-code-component/blob/main/design/desktop-preview.jpg)
